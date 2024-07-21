@@ -6,6 +6,3 @@ Scikit-Learn
 Pandas
 Numpy
 Streamlit (A fast way to build and share data apps)
-# Steps to Get Started:
-Clone the Repository:
-git clone 
